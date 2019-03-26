@@ -1,0 +1,1 @@
+echo "Hello b2 bat file"
